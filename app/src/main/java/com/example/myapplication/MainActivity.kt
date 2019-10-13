@@ -11,4 +11,8 @@ class MainActivity : AppCompatActivity() {
 
         print("hello")
     }
+
+    fun addAListViewAndAddContents() {
+        //TODO: implement UI
+    }
 }
